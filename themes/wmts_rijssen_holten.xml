@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Themes configVersion="3.2.0" xmlns="http://www.deegree.org/themes/standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:d="http://www.deegree.org/metadata/description"
+  xmlns:s="http://www.deegree.org/metadata/spatial" xsi:schemaLocation="http://www.deegree.org/themes/standard http://schemas.deegree.org/themes/3.2.0/themes.xsd">
+  <LayerStoreId>wmts_rijssen_holten</LayerStoreId>
+  <Theme>    
+    <d:Title>Rijssen-Holten foto's</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <Theme>
+      <Identifier>Rijssen_Holten</Identifier>
+      <d:Title>Luchtfoto gemeente Rijssen-Holten 2018</d:Title>
+      <Layer>Rijssen_Holten</Layer>
+    </Theme>
+  </Theme>
+</Themes>

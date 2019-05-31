@@ -1,0 +1,69 @@
+<TileMatrixSet xmlns="http://www.deegree.org/datasource/tile/tilematrixset"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.deegree.org/datasource/tile/tilematrixset http://schemas.deegree.org/datasource/tile/tilematrixset/3.2.0/tilematrixset.xsd"
+  configVersion="3.2.0">
+  <CRS>urn:ogc:def:crs:EPSG::28992</CRS>
+  <TileMatrix>
+    <Identifier>EPSG:28992:9</Identifier>
+    <ScaleDenominator>24000.0</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>512</MatrixWidth>
+    <MatrixHeight>512</MatrixHeight>
+  </TileMatrix>
+  <TileMatrix>
+    <Identifier>EPSG:28992:10</Identifier>
+    <ScaleDenominator>12000.0</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>1024</MatrixWidth>
+    <MatrixHeight>1024</MatrixHeight>
+  </TileMatrix>
+  <TileMatrix>
+    <Identifier>EPSG:28992:11</Identifier>
+    <ScaleDenominator>6000.0</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>2048</MatrixWidth>
+    <MatrixHeight>2048</MatrixHeight>
+  </TileMatrix>
+  <TileMatrix>
+    <Identifier>EPSG:28992:12</Identifier>
+    <ScaleDenominator>3000.0</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>4096</MatrixWidth>
+    <MatrixHeight>4096</MatrixHeight>
+  </TileMatrix>
+  <TileMatrix>
+    <Identifier>EPSG:28992:13</Identifier>
+    <ScaleDenominator>1500.0</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>8192</MatrixWidth>
+    <MatrixHeight>8192</MatrixHeight>
+  </TileMatrix>
+  <TileMatrix>
+    <Identifier>EPSG:28992:14</Identifier>
+    <ScaleDenominator>750.0</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>16384</MatrixWidth>
+    <MatrixHeight>16384</MatrixHeight>
+  </TileMatrix>
+  <TileMatrix>
+    <Identifier>EPSG:28992:15</Identifier>
+    <ScaleDenominator>375.0</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>32768</MatrixWidth>
+    <MatrixHeight>32768</MatrixHeight>
+  </TileMatrix>  
+</TileMatrixSet>

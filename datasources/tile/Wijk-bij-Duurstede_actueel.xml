@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
+ <TileDataSet>
+    <Identifier>ODRU_actueel</Identifier>
+    <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+    <File>/var/lufo/odru/Wijk-bij-Duurstede/2008/wijkbijduurstede_2008.ecw</File>
+    <ImageFormat>image/jpg</ImageFormat>
+ </TileDataSet>  
+</GDALTileStore>

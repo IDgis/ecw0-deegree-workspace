@@ -1,0 +1,23 @@
+<TileLayers xmlns="http://www.deegree.org/layers/tile"
+            xmlns:d="http://www.deegree.org/metadata/description"
+            xmlns:l="http://www.deegree.org/layers/base"
+            xmlns:s='http://www.deegree.org/metadata/spatial'
+            configVersion="3.2.0">
+
+    <!-- Soest -->
+
+    <TileLayer>
+        <l:Name>Soest_2018</l:Name>
+        <d:Title>Luchtfoto Soest 2018</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Soest_actueel">Soest_2018</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Soest_actueel</l:Name>
+        <d:Title>Luchtfoto Soest Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Soest_actueel">Soest_actueel</TileDataSet>
+    </TileLayer>
+
+</TileLayers>
+
