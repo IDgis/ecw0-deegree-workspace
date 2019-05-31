@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wms:deegreeWMS configVersion="3.4.0" xmlns:wms="http://www.deegree.org/services/wms" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dgws="http://www.deegree.org/webservices"
+  xsi:schemaLocation="http://www.deegree.org/services/wms http://schemas.deegree.org/services/wms/3.4.0/wms_configuration.xsd">
+
+  <wms:ServiceConfiguration>
+    <wms:ThemeId>wms_rijssen_holten</wms:ThemeId>
+  </wms:ServiceConfiguration>
+
+  <wms:MaxWidth>2900</wms:MaxWidth>
+  <wms:MaxHeight>1400</wms:MaxHeight>
+
+</wms:deegreeWMS>

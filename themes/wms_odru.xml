@@ -1,0 +1,92 @@
+<Themes configVersion="3.2.0" xmlns="http://www.deegree.org/themes/standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:d="http://www.deegree.org/metadata/description"
+  xmlns:s="http://www.deegree.org/metadata/spatial" xsi:schemaLocation="http://www.deegree.org/themes/standard http://schemas.deegree.org/themes/3.2.0/themes.xsd">
+  <LayerStoreId>wms_odru</LayerStoreId>
+  <Theme>    
+    <d:Title>Luchtfoto's</d:Title>
+    <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
+    <Theme>
+      <Identifier>ODRU_actueel</Identifier>
+      <d:Title>ODRU luchtfoto's alle gemeenten</d:Title>
+      <Layer>ODRU_actueel</Layer>
+    </Theme> 
+    <Theme>
+      <d:Title>Luchtfoto per gemeente</d:Title>
+      <Theme>
+        <Identifier>Bunnik</Identifier>
+        <d:Title>Luchtfoto Bunnik 2012</d:Title>
+        <Layer>Bunnik</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>De-Bilt</Identifier>
+        <d:Title>Luchtfoto De Bilt 2013</d:Title>
+        <Layer>De-Bilt</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>De-Ronde-Venen</Identifier>
+        <d:Title>Luchtfoto De Ronde Venen 2015</d:Title>
+        <Layer>De-Ronde-Venen</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>IJsselstein</Identifier>
+        <d:Title>Luchtfoto IJsselstein 2014</d:Title>
+        <Layer>IJsselstein</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Oudewater</Identifier>
+        <d:Title>Luchtfoto Oudewater 2015</d:Title>
+        <Layer>Oudewater</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Renswoude</Identifier>
+        <d:Title>Luchtfoto Renswoude 2013</d:Title>
+        <Layer>Renswoude</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Rhenen</Identifier>
+        <d:Title>Luchtfoto Rhenen 2013</d:Title>
+        <Layer>Rhenen</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Stichtse-Vecht</Identifier>
+        <d:Title>Luchtfoto Stichtse Vecht 2011</d:Title>
+        <Layer>Stichtse-Vecht</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Utrechtse-Heuvelrug</Identifier>
+        <d:Title>Luchtfoto Utrechtse Heuvelrug 2007</d:Title>
+        <Layer>Utrechtse-Heuvelrug</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Veenendaal</Identifier>
+        <d:Title>Luchtfoto Veenendaal 2012</d:Title>
+        <Layer>Veenendaal</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Vianen</Identifier>
+        <d:Title>Luchtfoto Vianen 2013</d:Title>
+        <Layer>Vianen</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Wijk-bij-Duurstede</Identifier>
+        <d:Title>Luchtfoto Wijk bij Duurstede 2008</d:Title>
+        <Layer>Wijk-bij-Duurstede</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Woerden</Identifier>
+        <d:Title>Luchtfoto Woerden 2015</d:Title>
+        <Layer>Woerden</Layer>
+      </Theme> 
+      <Theme>
+        <Identifier>Zeist</Identifier>
+        <d:Title>Luchtfoto Zeist 2013</d:Title>
+        <Layer>Zeist</Layer>
+      </Theme> 
+    </Theme>
+    <Theme>
+      <Identifier>Bussum-Naarden-IR</Identifier>
+      <d:Title>Bussum-Naarden infrarood foto 2011</d:Title>
+      <Layer>Bussum-Naarden-IR</Layer>
+    </Theme> 
+  </Theme>
+</Themes>

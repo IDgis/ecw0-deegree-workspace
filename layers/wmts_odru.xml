@@ -1,0 +1,103 @@
+<TileLayers xmlns="http://www.deegree.org/layers/tile"
+            xmlns:d="http://www.deegree.org/metadata/description"
+            xmlns:l="http://www.deegree.org/layers/base"
+            xmlns:s='http://www.deegree.org/metadata/spatial'  
+            configVersion="3.2.0">  
+  <TileLayer>  
+    <l:Name>ODRU_actueel</l:Name>
+    <d:Title>Luchtfoto ODRU actueel</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="ODRU_actueel_cached">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Bunnik_actueel</l:Name>
+    <d:Title>Luchtfoto Bunnik 2012</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Bunnik_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>De-Bilt_actueel</l:Name>
+    <d:Title>Luchtfoto De Bilt 2013</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="De-Bilt_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>De-Ronde-Venen_actueel</l:Name>
+    <d:Title>Luchtfoto De Ronde Venen 2015</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="De-Ronde-Venen_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>IJsselstein_actueel</l:Name>
+    <d:Title>Luchtfoto IJsselstein 2014</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="IJsselstein_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Oudewater_actueel</l:Name>
+    <d:Title>Luchtfoto Oudewater 2015</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Oudewater_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Renswoude_actueel</l:Name>
+    <d:Title>Luchtfoto Renswoude 2013</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Renswoude_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Rhenen_actueel</l:Name>
+    <d:Title>Luchtfoto Rhenen 2013</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Rhenen_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Stichtse-Vecht_actueel</l:Name>
+    <d:Title>Luchtfoto Stichtse Vecht 2011</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Stichtse-Vecht_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Utrechtse-Heuvelrug_actueel</l:Name>
+    <d:Title>Luchtfoto Utrechtse Heuvelrug 2007</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Utrechtse-Heuvelrug_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Veenendaal_actueel</l:Name>
+    <d:Title>Luchtfoto Veenendaal 2012</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Veenendaal_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Vianen_actueel</l:Name>
+    <d:Title>Luchtfoto Vianen 2013</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Vianen_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Wijk-bij-Duurstede_actueel</l:Name>
+    <d:Title>Luchtfoto Wijk bij Duurstede 2008</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Wijk-bij-Duurstede_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Woerden_actueel</l:Name>
+    <d:Title>Luchtfoto Woerden 2015</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Woerden_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Zeist_actueel</l:Name>
+    <d:Title>Luchtfoto Zeist 2013</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Zeist_actueel">ODRU_actueel</TileDataSet>
+  </TileLayer>  
+  <TileLayer>  
+    <l:Name>Bussum-Naarden-IR</l:Name>
+    <d:Title>Bussum-Naarden infrarood foto</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Bussum-Naarden-IR">Bussum-Naarden-IR</TileDataSet>
+  </TileLayer>  
+
+</TileLayers>

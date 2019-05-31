@@ -1,0 +1,16 @@
+<TileLayers xmlns="http://www.deegree.org/layers/tile"
+            xmlns:d="http://www.deegree.org/metadata/description"
+            xmlns:l="http://www.deegree.org/layers/base"
+            xmlns:s='http://www.deegree.org/metadata/spatial'  
+            configVersion="3.2.0">  
+
+<!-- Rijssen-Holten -->
+
+  <TileLayer>  
+    <l:Name>Rijssen_Holten</l:Name>
+    <d:Title>Luchtfoto Rijssen-Holten 2018</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <TileDataSet tileStoreId="Rijssen_Holten_actueel">Rijssen_Holten_actueel</TileDataSet>
+  </TileLayer>  
+
+</TileLayers>

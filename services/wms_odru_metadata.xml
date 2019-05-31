@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deegreeServicesMetadata configVersion="3.1.0" xmlns="http://www.deegree.org/services/metadata"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/services/metadata http://schemas.deegree.org/services/metadata/3.2.0/metadata.xsd">
+
+  <ServiceIdentification>
+    <Title>luchtfoto</Title>
+    <Abstract>luchtfoto wms</Abstract>
+  </ServiceIdentification>
+
+  <ServiceProvider>
+    <ProviderName>Omgevingsdienst regio Utrecht</ProviderName>
+    <ProviderSite>http://www.odru.nl/</ProviderSite>
+    <ServiceContact>
+      <IndividualName>Functioneel beheerder</IndividualName>
+      <PositionName>Functioneel beheerder</PositionName>
+      <ElectronicMailAddress>info@odru.nl</ElectronicMailAddress>
+      <Address/>
+      <OnlineResource>http://www.odru.nl/</OnlineResource>
+      <HoursOfService>24x7</HoursOfService>
+      <Role>PointOfContact</Role>
+    </ServiceContact>
+  </ServiceProvider>
+
+</deegreeServicesMetadata>

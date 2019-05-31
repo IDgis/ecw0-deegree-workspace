@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<Themes configVersion="3.2.0" xmlns="http://www.deegree.org/themes/standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:d="http://www.deegree.org/metadata/description"
+  xmlns:s="http://www.deegree.org/metadata/spatial" xsi:schemaLocation="http://www.deegree.org/themes/standard http://schemas.deegree.org/themes/3.2.0/themes.xsd">
+  <LayerStoreId>wmts</LayerStoreId>
+  <Theme>    
+    <d:Title>ODRU foto's</d:Title>
+    <s:CRS>EPSG:28992</s:CRS>
+    <Theme>
+      <Identifier>ODRU_luchtfoto</Identifier>
+      <d:Title>ODRU luchtfoto's alle gemeenten</d:Title>
+      <Layer>ODRU_actueel</Layer>
+    </Theme>
+    <Theme>
+      <d:Title>ODRU luchtfoto's per gemeente</d:Title>
+      <Theme>
+        <Identifier>Bunnik</Identifier>
+        <d:Title>Luchtfoto Bunnik 2012</d:Title>
+        <Layer>Bunnik_actueel</Layer>
+      </Theme>
+      <Theme>
+        <Identifier>De-Bilt</Identifier>
+        <d:Title>Luchtfoto De Bilt 2013</d:Title>
+        <Layer>De-Bilt_actueel</Layer>
+      </Theme>
+      <Theme>
+        <Identifier>http://schemas.deegree.org/datasource/tile/cache/3.2.0/cache.xsd</Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+      <Theme>
+        <Identifier></Identifier>
+        <d:Title>Luchtfoto </d:Title>
+        <Layer></Layer>
+      </Theme>
+    </Theme>
+    <Theme>
+      <Identifier>Bussum-Naarden-IR</Identifier>
+      <d:Title>Bussum-Naarden infrarood foto</d:Title>
+      <Layer>Bussum-Naarden-IR</Layer>
+    </Theme>
+  </Theme>
+</Themes>

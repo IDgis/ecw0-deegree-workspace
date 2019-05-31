@@ -1,0 +1,5 @@
+<GDALSettings configVersion="3.4.0" xmlns="http://www.deegree.org/gdal">
+  <OpenDatasets>10</OpenDatasets>
+  <GDALOption name="GDAL_CACHEMAX">1000</GDALOption>
+  <GDALOption name="ECW_CACHE_MAXMEM">419430400</GDALOption>
+</GDALSettings>
