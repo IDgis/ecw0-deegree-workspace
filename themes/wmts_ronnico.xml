@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Themes xmlns="http://www.deegree.org/themes/standard"
+        xmlns:d="http://www.deegree.org/metadata/description"
+        xmlns:s="http://www.deegree.org/metadata/spatial"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/themes/standard http://schemas.deegree.org/themes/3.2.0/themes.xsd"
+        configVersion="3.2.0">
+    <LayerStoreId>wmts_ronnico</LayerStoreId>
+    <Theme>
+        <d:Title>Luchtfoto's</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+
+        <!-- Vijfherenlanden -->
+        <Theme>
+            <Identifier>Vijfherenlanden_actueel</Identifier>
+            <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
+            <Layer>Vijfherenlanden_actueel</Layer>
+        </Theme>
+
+        <!-- Medemblik -->
+        <Theme>
+            <Identifier>Medemblik_actueel</Identifier>
+            <d:Title>Luchtfoto Medemblik Actueel</d:Title>
+            <Layer>Medemblik_actueel</Layer>
+        </Theme>
+    </Theme>
+</Themes>

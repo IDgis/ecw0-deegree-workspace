@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<deegreeWMTS xmlns="http://www.deegree.org/services/wmts"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/services/wmts wmts.xsd"
+             configVersion="3.2.0">
+
+    <ServiceConfiguration>
+        <ThemeId>wmts_ronnico</ThemeId>
+    </ServiceConfiguration>
+
+</deegreeWMTS>
