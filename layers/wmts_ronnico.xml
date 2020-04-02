@@ -9,7 +9,7 @@
         <l:Name>Vijfherenlanden_actueel</l:Name>
         <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Vijfherenlanden_actueel">Ronnico_actueel</TileDataSet>
+        <TileDataSet tileStoreId="Ronnico_actueel">Vijfherenlanden_actueel</TileDataSet>
     </TileLayer>
 
     <!-- Medemblik -->
@@ -17,7 +17,7 @@
         <l:Name>Medemblik_actueel</l:Name>
         <d:Title>Luchtfoto Medemblik Actueel</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Medemblik_actueel">Ronnico_actueel</TileDataSet>
+        <TileDataSet tileStoreId="Ronnico_actueel">Medemblik_actueel</TileDataSet>
     </TileLayer>
 
 </TileLayers>
