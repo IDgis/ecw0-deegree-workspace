@@ -5,7 +5,7 @@
     <TileDataSet>
         <Identifier>Vijfherenlanden_actueel</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Ronnico/2020/FL19338_Vijfherenlanden_50.ecw</File>
+        <File>/var/lufo/Ronnico/2019/FL19338_Vijfherenlanden_50.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
@@ -13,7 +13,7 @@
     <TileDataSet>
         <Identifier>Medemblik_actueel</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Ronnico/2020/FL19309_Medemblik_50.ecw</File>
+        <File>/var/lufo/Ronnico/2019/FL19309_Medemblik_50.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
