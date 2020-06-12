@@ -23,5 +23,12 @@
             <Layer>Medemblik_actueel</Layer>
         </Theme>
 
+        <!-- Teylingen -->
+        <Theme>
+            <Identifier>Teylingen_actueel</Identifier>
+            <d:Title>Luchtfoto Teylingen Actueel</d:Title>
+            <Layer>Teylingen_actueel</Layer>
+        </Theme>
+
     </Theme>
 </Themes>
