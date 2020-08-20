@@ -7,9 +7,9 @@
         <d:Title>Soest foto's</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
         <Theme>
-            <Identifier>Soest_2018</Identifier>
-            <d:Title>Luchtfoto gemeente Soest 2018</d:Title>
-            <Layer>Soest_2018</Layer>
+            <Identifier>Soest_2020</Identifier>
+            <d:Title>Luchtfoto gemeente Soest 2020</d:Title>
+            <Layer>Soest_2020</Layer>
         </Theme>
         <Theme>
             <Identifier>Soest_actueel</Identifier>
@@ -18,4 +18,3 @@
         </Theme>
     </Theme>
 </Themes>
-

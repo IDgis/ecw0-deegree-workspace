@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
     <TileDataSet>
-        <Identifier>Soest_2018</Identifier>
+        <Identifier>Soest_2020</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Soest/2018/ECW_Soest.ecw</File>
+        <File>/var/lufo/Soest/2020/FL20128_Soest_TrueOrtho.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
     <TileDataSet>
         <Identifier>Soest_actueel</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Soest/2019/ECW_Soest.ecw</File>
+        <File>/var/lufo/Soest/2020/FL20128_Soest_TrueOrtho.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 </GDALTileStore>
-
