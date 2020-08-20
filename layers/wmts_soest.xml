@@ -5,12 +5,11 @@
             configVersion="3.2.0">
 
     <!-- Soest -->
-
     <TileLayer>
-        <l:Name>Soest_2018</l:Name>
-        <d:Title>Luchtfoto Soest 2018</d:Title>
+        <l:Name>Soest_2020</l:Name>
+        <d:Title>Luchtfoto Soest 2020</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Soest_actueel">Soest_2018</TileDataSet>
+        <TileDataSet tileStoreId="Soest_actueel">Soest_2020</TileDataSet>
     </TileLayer>
     <TileLayer>
         <l:Name>Soest_actueel</l:Name>
@@ -20,4 +19,3 @@
     </TileLayer>
 
 </TileLayers>
-
