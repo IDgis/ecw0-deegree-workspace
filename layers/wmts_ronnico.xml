@@ -28,4 +28,12 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Teylingen_actueel</TileDataSet>
     </TileLayer>
 
+    <!-- Moerdijk -->
+    <TileLayer>
+        <l:Name>Moerdijk_actueel</l:Name>
+        <d:Title>Luchtfoto Moerdijk Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_actueel">Moerdijk_actueel</TileDataSet>
+    </TileLayer>
+
 </TileLayers>
