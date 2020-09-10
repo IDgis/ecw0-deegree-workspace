@@ -30,5 +30,12 @@
             <Layer>Teylingen_actueel</Layer>
         </Theme>
 
+        <!-- Moerdijk -->
+        <Theme>
+            <Identifier>Moerdijk_actueel</Identifier>
+            <d:Title>Luchtfoto Moerdijk Actueel</d:Title>
+            <Layer>Moerdijk_actueel</Layer>
+        </Theme>
+
     </Theme>
 </Themes>

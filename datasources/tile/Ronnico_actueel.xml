@@ -25,4 +25,12 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
+    <!-- Moerdijk -->
+    <TileDataSet>
+        <Identifier>Moerdijk_actueel</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Ronnico/2020/2020_Moerdijk.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
 </GDALTileStore>
