@@ -33,4 +33,12 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
+    <!-- Heusden -->
+    <TileDataSet>
+        <Identifier>Heusden_actueel</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Ronnico/2020/2020_HR_Heusden.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
 </GDALTileStore>

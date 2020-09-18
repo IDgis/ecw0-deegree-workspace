@@ -36,4 +36,12 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Moerdijk_actueel</TileDataSet>
     </TileLayer>
 
+    <!-- Heusden -->
+    <TileLayer>
+        <l:Name>Heusden_actueel</l:Name>
+        <d:Title>Luchtfoto Heusden Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_actueel">Heusden_actueel</TileDataSet>
+    </TileLayer>
+
 </TileLayers>
