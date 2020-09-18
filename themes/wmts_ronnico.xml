@@ -36,5 +36,12 @@
             <d:Title>Luchtfoto Moerdijk Actueel</d:Title>
             <Layer>Moerdijk_actueel</Layer>
         </Theme>
+
+        <!-- Heusden -->
+        <Theme>
+            <Identifier>Heusden_actueel</Identifier>
+            <d:Title>Luchtfoto Heusden Actueel</d:Title>
+            <Layer>Heusden_actueel</Layer>
+        </Theme>
     </Theme>
 </Themes>
