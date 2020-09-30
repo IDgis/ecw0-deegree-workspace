@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
 
-    <!-- Vijfherenlanden -->
+    <!-- Heusden -->
     <TileDataSet>
-        <Identifier>Vijfherenlanden_actueel</Identifier>
+        <Identifier>Heusden_actueel</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Ronnico/2019/FL19338_Vijfherenlanden_50.ecw</File>
+        <File>/var/lufo/Ronnico/2020/2020_HR_Heusden.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
@@ -17,14 +17,6 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
-    <!-- Teylingen -->
-    <TileDataSet>
-        <Identifier>Teylingen_actueel</Identifier>
-        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Ronnico/2019/Teylingen.ecw</File>
-        <ImageFormat>image/jpg</ImageFormat>
-    </TileDataSet>
-
     <!-- Moerdijk -->
     <TileDataSet>
         <Identifier>Moerdijk_actueel</Identifier>
@@ -33,19 +25,27 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
-    <!-- Heusden -->
-    <TileDataSet>
-        <Identifier>Heusden_actueel</Identifier>
-        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Ronnico/2020/2020_HR_Heusden.ecw</File>
-        <ImageFormat>image/jpg</ImageFormat>
-    </TileDataSet>
-
     <!-- Ronde Venen -->
     <TileDataSet>
         <Identifier>Ronde_Venen_actueel</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
         <File>/var/lufo/Ronnico/2020/De_Ronde_Venen_2020.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
+    <!-- Teylingen -->
+    <TileDataSet>
+        <Identifier>Teylingen_actueel</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Ronnico/2019/Teylingen.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
+    <!-- Vijfherenlanden -->
+    <TileDataSet>
+        <Identifier>Vijfherenlanden_actueel</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Ronnico/2019/FL19338_Vijfherenlanden_50.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
