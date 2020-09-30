@@ -9,11 +9,11 @@
         <d:Title>Luchtfoto's</d:Title>
         <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
 
-        <!-- Vijfherenlanden -->
+        <!-- Heusden -->
         <Theme>
-            <Identifier>Vijfherenlanden_actueel</Identifier>
-            <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
-            <Layer>Vijfherenlanden_actueel</Layer>
+            <Identifier>Heusden_actueel</Identifier>
+            <d:Title>Luchtfoto Heusden Actueel</d:Title>
+            <Layer>Heusden_actueel</Layer>
         </Theme>
 
         <!-- Medemblik -->
@@ -23,13 +23,6 @@
             <Layer>Medemblik_actueel</Layer>
         </Theme>
 
-        <!-- Teylingen -->
-        <Theme>
-            <Identifier>Teylingen_actueel</Identifier>
-            <d:Title>Luchtfoto Teylingen Actueel</d:Title>
-            <Layer>Teylingen_actueel</Layer>
-        </Theme>
-
         <!-- Moerdijk -->
         <Theme>
             <Identifier>Moerdijk_actueel</Identifier>
@@ -37,11 +30,25 @@
             <Layer>Moerdijk_actueel</Layer>
         </Theme>
 
-        <!-- Heusden -->
+        <!-- Ronde Venen -->
         <Theme>
-            <Identifier>Heusden_actueel</Identifier>
-            <d:Title>Luchtfoto Heusden Actueel</d:Title>
-            <Layer>Heusden_actueel</Layer>
+            <Identifier>Ronde_Venen_actueel</Identifier>
+            <d:Title>Luchtfoto De Ronde Venen Actueel</d:Title>
+            <Layer>Ronde_Venen_actueel</Layer>
+        </Theme>
+
+        <!-- Teylingen -->
+        <Theme>
+            <Identifier>Teylingen_actueel</Identifier>
+            <d:Title>Luchtfoto Teylingen Actueel</d:Title>
+            <Layer>Teylingen_actueel</Layer>
+        </Theme>
+
+        <!-- Vijfherenlanden -->
+        <Theme>
+            <Identifier>Vijfherenlanden_actueel</Identifier>
+            <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
+            <Layer>Vijfherenlanden_actueel</Layer>
         </Theme>
 
     </Theme>

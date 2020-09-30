@@ -1,13 +1,13 @@
 <GDALLayers xmlns="http://www.deegree.org/layers/gdal" xmlns:d="http://www.deegree.org/metadata/description"
             xmlns:l="http://www.deegree.org/layers/base" xmlns:s='http://www.deegree.org/metadata/spatial' configVersion="3.4.0">
 
-    <!-- Vijfherenlanden -->
+    <!-- Heusden -->
     <GDALLayer>
-        <l:Name>Vijfherenlanden_actueel</l:Name>
-        <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
+        <l:Name>Heusden_actueel</l:Name>
+        <d:Title>Luchtfoto Heusden Actueel</d:Title>
         <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
         <l:ScaleDenominators min="0" max="100000000" />
-        <File>/var/lufo/Ronnico/2019/FL19338_Vijfherenlanden_50.ecw</File>
+        <File>/var/lufo/Ronnico/2020/2020_HR_Heusden.ecw</File>
     </GDALLayer>
 
     <!-- Medemblik -->
@@ -19,15 +19,6 @@
         <File>/var/lufo/Ronnico/2019/FL19309_Medemblik_50.ecw</File>
     </GDALLayer>
 
-    <!-- Teylingen -->
-    <GDALLayer>
-        <l:Name>Teylingen_actueel</l:Name>
-        <d:Title>Luchtfoto Teylingen Actueel</d:Title>
-        <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
-        <l:ScaleDenominators min="0" max="100000000" />
-        <File>/var/lufo/Ronnico/2019/Teylingen.ecw</File>
-    </GDALLayer>
-
     <!-- Moerdijk -->
     <GDALLayer>
         <l:Name>Moerdijk_actueel</l:Name>
@@ -37,13 +28,31 @@
         <File>/var/lufo/Ronnico/2020/2020_Moerdijk.ecw</File>
     </GDALLayer>
 
-    <!-- Heusden -->
+    <!-- Ronde Venen -->
     <GDALLayer>
-        <l:Name>Heusden_actueel</l:Name>
-        <d:Title>Luchtfoto Heusden Actueel</d:Title>
+        <l:Name>Ronde_Venen_actueel</l:Name>
+        <d:Title>Luchtfoto De Ronde Venen Actueel</d:Title>
         <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
         <l:ScaleDenominators min="0" max="100000000" />
-        <File>/var/lufo/Ronnico/2020/2020_HR_Heusden.ecw</File>
+        <File>/var/lufo/Ronnico/2020/De_Ronde_Venen_2020.ecw</File>
+    </GDALLayer>
+
+    <!-- Teylingen -->
+    <GDALLayer>
+        <l:Name>Teylingen_actueel</l:Name>
+        <d:Title>Luchtfoto Teylingen Actueel</d:Title>
+        <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Ronnico/2019/Teylingen.ecw</File>
+    </GDALLayer>
+
+    <!-- Vijfherenlanden -->
+    <GDALLayer>
+        <l:Name>Vijfherenlanden_actueel</l:Name>
+        <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
+        <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Ronnico/2019/FL19338_Vijfherenlanden_50.ecw</File>
     </GDALLayer>
 
 </GDALLayers>
