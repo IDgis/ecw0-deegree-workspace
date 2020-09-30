@@ -4,12 +4,12 @@
             xmlns:s="http://www.deegree.org/metadata/spatial"
             configVersion="3.2.0">
 
-    <!-- Vijherenlanden -->
+    <!-- Heusden -->
     <TileLayer>
-        <l:Name>Vijfherenlanden_actueel</l:Name>
-        <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
+        <l:Name>Heusden_actueel</l:Name>
+        <d:Title>Luchtfoto Heusden Actueel</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Vijfherenlanden_actueel</TileDataSet>
+        <TileDataSet tileStoreId="Ronnico_actueel">Heusden_actueel</TileDataSet>
     </TileLayer>
 
     <!-- Medemblik -->
@@ -20,14 +20,6 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Medemblik_actueel</TileDataSet>
     </TileLayer>
 
-    <!-- Teylingen -->
-    <TileLayer>
-        <l:Name>Teylingen_actueel</l:Name>
-        <d:Title>Luchtfoto Teylingen Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Teylingen_actueel</TileDataSet>
-    </TileLayer>
-
     <!-- Moerdijk -->
     <TileLayer>
         <l:Name>Moerdijk_actueel</l:Name>
@@ -36,12 +28,28 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Moerdijk_actueel</TileDataSet>
     </TileLayer>
 
-    <!-- Heusden -->
+    <!-- Ronde Venen -->
     <TileLayer>
-        <l:Name>Heusden_actueel</l:Name>
-        <d:Title>Luchtfoto Heusden Actueel</d:Title>
+        <l:Name>Ronde_Venen_actueel</l:Name>
+        <d:Title>Luchtfoto De Ronde Venen Actueel</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Heusden_actueel</TileDataSet>
+        <TileDataSet tileStoreId="Ronnico_actueel">Ronde_Venen_actueel</TileDataSet>
+    </TileLayer>
+
+    <!-- Teylingen -->
+    <TileLayer>
+        <l:Name>Teylingen_actueel</l:Name>
+        <d:Title>Luchtfoto Teylingen Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_actueel">Teylingen_actueel</TileDataSet>
+    </TileLayer>
+
+    <!-- Vijherenlanden -->
+    <TileLayer>
+        <l:Name>Vijfherenlanden_actueel</l:Name>
+        <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_actueel">Vijfherenlanden_actueel</TileDataSet>
     </TileLayer>
 
 </TileLayers>
