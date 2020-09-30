@@ -41,4 +41,12 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
+    <!-- Ronde Venen -->
+    <TileDataSet>
+        <Identifier>Ronde_Venen_actueel</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Ronnico/2020/De_Ronde_Venen_2020.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
 </GDALTileStore>

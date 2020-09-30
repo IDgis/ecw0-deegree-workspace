@@ -44,5 +44,12 @@
             <Layer>Heusden_actueel</Layer>
         </Theme>
 
+        <!-- Ronde Venen -->
+        <Theme>
+            <Identifier>Ronde_Venen_actueel</Identifier>
+            <d:Title>Luchtfoto De Ronde Venen Actueel</d:Title>
+            <Layer>Ronde_Venen_actueel</Layer>
+        </Theme>
+
     </Theme>
 </Themes>

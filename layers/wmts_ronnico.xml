@@ -44,4 +44,12 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Heusden_actueel</TileDataSet>
     </TileLayer>
 
+    <!-- Ronde Venen -->
+    <TileLayer>
+        <l:Name>Ronde_Venen_actueel</l:Name>
+        <d:Title>Luchtfoto De Ronde Venen Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_actueel">Ronde_Venen_actueel</TileDataSet>
+    </TileLayer>
+
 </TileLayers>
