@@ -36,14 +36,6 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Ronde_Venen_actueel</TileDataSet>
     </TileLayer>
 
-    <!-- Teylingen -->
-    <TileLayer>
-        <l:Name>Teylingen_actueel</l:Name>
-        <d:Title>Luchtfoto Teylingen Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Teylingen_actueel</TileDataSet>
-    </TileLayer>
-
     <!-- Vijherenlanden -->
     <TileLayer>
         <l:Name>Vijfherenlanden_actueel</l:Name>
