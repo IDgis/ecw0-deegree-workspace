@@ -45,7 +45,7 @@
     <TileDataSet>
         <Identifier>Vijfherenlanden_actueel</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Ronnico/2019/FL19338_Vijfherenlanden_50.ecw</File>
+        <File>/var/lufo/Ronnico/2020/Vijfheerenlanden_Orthofoto_RGB.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
