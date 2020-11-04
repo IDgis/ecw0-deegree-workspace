@@ -33,14 +33,6 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
-    <!-- Teylingen -->
-    <TileDataSet>
-        <Identifier>Teylingen_actueel</Identifier>
-        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Ronnico/2019/Teylingen.ecw</File>
-        <ImageFormat>image/jpg</ImageFormat>
-    </TileDataSet>
-
     <!-- Vijfherenlanden -->
     <TileDataSet>
         <Identifier>Vijfherenlanden_actueel</Identifier>
