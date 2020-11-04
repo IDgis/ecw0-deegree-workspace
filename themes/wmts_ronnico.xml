@@ -37,12 +37,13 @@
             <Layer>Ronde_Venen_actueel</Layer>
         </Theme>
 
-        <!-- Teylingen -->
+        <!-- Teylingen verwijderd miv 22-10-2020
         <Theme>
             <Identifier>Teylingen_actueel</Identifier>
             <d:Title>Luchtfoto Teylingen Actueel</d:Title>
             <Layer>Teylingen_actueel</Layer>
         </Theme>
+        -->
 
         <!-- Vijfherenlanden -->
         <Theme>
