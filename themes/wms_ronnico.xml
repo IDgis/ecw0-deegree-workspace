@@ -30,6 +30,19 @@
             <Layer>Moerdijk_actueel</Layer>
         </Theme>
 
+        <!-- Roerdalen -->
+        <Theme>
+            <Identifier>Roerdalen_actueel</Identifier>
+            <d:Title>Luchtfoto Roerdalen Actueel</d:Title>
+            <Layer>Roerdalen_actueel</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>Roerdalen_2020</Identifier>
+            <d:Title>Luchtfoto Roerdalen 2020</d:Title>
+            <Layer>Roerdalen_2020</Layer>
+        </Theme>
+
         <!-- Ronde Venen -->
         <Theme>
             <Identifier>Ronde_Venen_actueel</Identifier>
