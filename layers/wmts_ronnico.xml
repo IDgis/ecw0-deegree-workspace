@@ -28,6 +28,21 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Moerdijk_actueel</TileDataSet>
     </TileLayer>
 
+    <!-- Oirschot -->
+    <TileLayer>
+        <l:Name>Oirschot_actueel</l:Name>
+        <d:Title>Luchtfoto Oirschot Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_2020">Oirschot_2020</TileDataSet>
+    </TileLayer>
+
+    <TileLayer>
+        <l:Name>Oirschot_2020</l:Name>
+        <d:Title>Luchtfoto Oirschot 2020</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_2020">Oirschot_2020</TileDataSet>
+    </TileLayer>
+
     <!-- Roerdalen -->
     <TileLayer>
         <l:Name>Roerdalen_actueel</l:Name>

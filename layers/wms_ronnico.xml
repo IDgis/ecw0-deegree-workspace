@@ -28,6 +28,23 @@
         <File>/var/lufo/Ronnico/2020/2020_Moerdijk.ecw</File>
     </GDALLayer>
 
+    <!-- Oirschot -->
+    <GDALLayer>
+        <l:Name>Oirschot_actueel</l:Name>
+        <d:Title>Luchtfoto Oirschot Actueel</d:Title>
+        <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Ronnico/2020/2020_HR_Oirschot.ecw</File>
+    </GDALLayer>
+
+    <GDALLayer>
+        <l:Name>Oirschot_2020</l:Name>
+        <d:Title>Luchtfoto Oirschot 2020</d:Title>
+        <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Ronnico/2020/2020_HR_Oirschot.ecw</File>
+    </GDALLayer>
+
     <!-- Roerdalen -->
     <GDALLayer>
         <l:Name>Roerdalen_actueel</l:Name>

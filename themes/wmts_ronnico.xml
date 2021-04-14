@@ -30,6 +30,19 @@
             <Layer>Moerdijk_actueel</Layer>
         </Theme>
 
+        <!-- Oirschot -->
+        <Theme>
+            <Identifier>Oirschot_actueel</Identifier>
+            <d:Title>Luchtfoto Oirschot Actueel</d:Title>
+            <Layer>Oirschot_actueel</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>Oirschot_2020</Identifier>
+            <d:Title>Luchtfoto Oirschot 2020</d:Title>
+            <Layer>Oirschot_2020</Layer>
+        </Theme>
+
         <!-- Roerdalen -->
         <Theme>
             <Identifier>Roerdalen_actueel</Identifier>
