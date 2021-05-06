@@ -19,11 +19,5 @@
             <Layer>Soest_2021</Layer>
         </Theme>
 
-        <Theme>
-            <Identifier>Soest_2020</Identifier>
-            <d:Title>Luchtfoto Soest 2020</d:Title>
-            <Layer>Soest_2020</Layer>
-        </Theme>
-
     </Theme>
 </Themes>
