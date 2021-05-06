@@ -6,15 +6,25 @@
     <Theme>
         <d:Title>Soest foto's</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <Theme>
-            <Identifier>Soest_2020</Identifier>
-            <d:Title>Luchtfoto gemeente Soest 2020</d:Title>
-            <Layer>Soest_2020</Layer>
-        </Theme>
+
+        <!-- Soest -->
         <Theme>
             <Identifier>Soest_actueel</Identifier>
             <d:Title>Luchtfoto gemeente Soest Actueel</d:Title>
             <Layer>Soest_actueel</Layer>
         </Theme>
+
+        <Theme>
+            <Identifier>Soest_2021</Identifier>
+            <d:Title>Luchtfoto gemeente Soest 2021</d:Title>
+            <Layer>Soest_2021</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>Soest_2020</Identifier>
+            <d:Title>Luchtfoto gemeente Soest 2020</d:Title>
+            <Layer>Soest_2020</Layer>
+        </Theme>
+
     </Theme>
 </Themes>
