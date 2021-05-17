@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
 
+    <!-- Bunnik -->
+    <TileDataSet>
+        <Identifier>Bunnik_2020</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Ronnico/2020/Bunnik_2020.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
     <!-- Oirschot -->
     <TileDataSet>
         <Identifier>Oirschot_2020</Identifier>
