@@ -4,6 +4,14 @@
             xmlns:s="http://www.deegree.org/metadata/spatial"
             configVersion="3.2.0">
 
+    <!-- Bergen -->
+    <TileLayer>
+        <l:Name>Bergen_actueel</l:Name>
+        <d:Title>Luchtfoto Bergen Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_2020">Bergen_2020</TileDataSet>
+    </TileLayer>
+
     <!-- Bunnik -->
     <TileLayer>
         <l:Name>Bunnik_actueel</l:Name>
