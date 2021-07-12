@@ -9,6 +9,13 @@
         <d:Title>Luchtfoto's</d:Title>
         <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
 
+        <!-- Bergen -->
+        <Theme>
+            <Identifier>Bergen_actueel</Identifier>
+            <d:Title>Luchtfoto Bergen Actueel</d:Title>
+            <Layer>Bergen_actueel</Layer>
+        </Theme>
+
         <!-- Bunnik -->
         <Theme>
             <Identifier>Bunnik_actueel</Identifier>
