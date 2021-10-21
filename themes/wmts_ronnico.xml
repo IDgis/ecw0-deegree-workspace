@@ -43,6 +43,19 @@
             <Layer>Medemblik_actueel</Layer>
         </Theme>
 
+        <!-- MiddenDelfland -->
+        <Theme>
+            <Identifier>MiddenDelfland_actueel</Identifier>
+            <d:Title>Luchtfoto Midden-Delfland Actueel</d:Title>
+            <Layer>MiddenDelfland_actueel</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>MiddenDelfland_2021</Identifier>
+            <d:Title>Luchtfoto Midden-Delfland 2021</d:Title>
+            <Layer>MiddenDelfland_2021</Layer>
+        </Theme>
+
         <!-- Moerdijk -->
         <Theme>
             <Identifier>Moerdijk_actueel</Identifier>
