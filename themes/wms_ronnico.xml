@@ -16,19 +16,6 @@
             <Layer>Bergen_actueel</Layer>
         </Theme>
 
-        <!-- Bunnik -->
-        <Theme>
-            <Identifier>Bunnik_actueel</Identifier>
-            <d:Title>Luchtfoto Bunnik Actueel</d:Title>
-            <Layer>Bunnik_actueel</Layer>
-        </Theme>
-
-        <Theme>
-            <Identifier>Bunnik_2020</Identifier>
-            <d:Title>Luchtfoto Bunnik 2020</d:Title>
-            <Layer>Bunnik_2020</Layer>
-        </Theme>
-
         <!-- Heusden -->
         <Theme>
             <Identifier>Heusden_actueel</Identifier>
