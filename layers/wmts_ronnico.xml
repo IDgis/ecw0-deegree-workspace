@@ -20,6 +20,21 @@
         <TileDataSet tileStoreId="Ronnico_actueel">Heusden_actueel</TileDataSet>
     </TileLayer>
 
+    <!-- Maassluis -->
+    <TileLayer>
+        <l:Name>Maassluis_actueel</l:Name>
+        <d:Title>Luchtfoto Maassluis Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_2021">Maassluis_2021</TileDataSet>
+    </TileLayer>
+
+    <TileLayer>
+        <l:Name>Maassluis_2021</l:Name>
+        <d:Title>Luchtfoto Maassluis 2021</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico_2021">Maassluis_2021</TileDataSet>
+    </TileLayer>
+
     <!-- Medemblik -->
     <TileLayer>
         <l:Name>Medemblik_actueel</l:Name>
