@@ -9,14 +9,14 @@
         <l:Name>Soest_actueel</l:Name>
         <d:Title>Luchtfoto Soest Actueel</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Soest_2021">Soest_2021</TileDataSet>
+        <TileDataSet tileStoreId="Soest_2022">Soest_2022</TileDataSet>
     </TileLayer>
 
     <TileLayer>
-        <l:Name>Soest_2021</l:Name>
-        <d:Title>Luchtfoto Soest 2021</d:Title>
+        <l:Name>Soest_2022</l:Name>
+        <d:Title>Luchtfoto Soest 2022</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Soest_2021">Soest_2021</TileDataSet>
+        <TileDataSet tileStoreId="Soest_2022">Soest_2022</TileDataSet>
     </TileLayer>
 
 </TileLayers>

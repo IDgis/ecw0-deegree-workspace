@@ -3,9 +3,9 @@
 
     <!-- Soest -->
     <TileDataSet>
-        <Identifier>Soest_2021</Identifier>
+        <Identifier>Soest_2022</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Soest/2021/Soest_TrueOrtho_2021_RGB_K10.ecw</File>
+        <File>/var/lufo/Soest/2022/1259_102021605_Gemeente_Soest_2022_TrueOrtho.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
