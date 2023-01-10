@@ -9,20 +9,6 @@
         <d:Title>Luchtfoto's</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
 
-        <!-- Bergen -->
-        <Theme>
-            <Identifier>Bergen_actueel</Identifier>
-            <d:Title>Luchtfoto Bergen Actueel</d:Title>
-            <Layer>Bergen_actueel</Layer>
-        </Theme>
-
-        <!-- Heusden -->
-        <Theme>
-            <Identifier>Heusden_actueel</Identifier>
-            <d:Title>Luchtfoto Heusden Actueel</d:Title>
-            <Layer>Heusden_actueel</Layer>
-        </Theme>
-
         <!-- Maassluis -->
         <Theme>
             <Identifier>Maassluis_actueel</Identifier>
@@ -36,13 +22,6 @@
             <Layer>Maassluis_2021</Layer>
         </Theme>
 
-        <!-- Medemblik -->
-        <Theme>
-            <Identifier>Medemblik_actueel</Identifier>
-            <d:Title>Luchtfoto Medemblik Actueel</d:Title>
-            <Layer>Medemblik_actueel</Layer>
-        </Theme>
-
         <!-- MiddenDelfland -->
         <Theme>
             <Identifier>MiddenDelfland_actueel</Identifier>
@@ -54,53 +33,6 @@
             <Identifier>MiddenDelfland_2021</Identifier>
             <d:Title>Luchtfoto Midden-Delfland 2021</d:Title>
             <Layer>MiddenDelfland_2021</Layer>
-        </Theme>
-
-        <!-- Moerdijk -->
-        <Theme>
-            <Identifier>Moerdijk_actueel</Identifier>
-            <d:Title>Luchtfoto Moerdijk Actueel</d:Title>
-            <Layer>Moerdijk_actueel</Layer>
-        </Theme>
-
-        <!-- Oirschot -->
-        <Theme>
-            <Identifier>Oirschot_actueel</Identifier>
-            <d:Title>Luchtfoto Oirschot Actueel</d:Title>
-            <Layer>Oirschot_actueel</Layer>
-        </Theme>
-
-        <Theme>
-            <Identifier>Oirschot_2020</Identifier>
-            <d:Title>Luchtfoto Oirschot 2020</d:Title>
-            <Layer>Oirschot_2020</Layer>
-        </Theme>
-
-        <!-- Roerdalen -->
-        <Theme>
-            <Identifier>Roerdalen_actueel</Identifier>
-            <d:Title>Luchtfoto Roerdalen Actueel</d:Title>
-            <Layer>Roerdalen_actueel</Layer>
-        </Theme>
-
-        <Theme>
-            <Identifier>Roerdalen_2020</Identifier>
-            <d:Title>Luchtfoto Roerdalen 2020</d:Title>
-            <Layer>Roerdalen_2020</Layer>
-        </Theme>
-
-        <!-- Ronde Venen -->
-        <Theme>
-            <Identifier>Ronde_Venen_actueel</Identifier>
-            <d:Title>Luchtfoto De Ronde Venen Actueel</d:Title>
-            <Layer>Ronde_Venen_actueel</Layer>
-        </Theme>
-
-        <!-- Vijfherenlanden -->
-        <Theme>
-            <Identifier>Vijfherenlanden_actueel</Identifier>
-            <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
-            <Layer>Vijfherenlanden_actueel</Layer>
         </Theme>
 
     </Theme>
