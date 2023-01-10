@@ -4,22 +4,6 @@
             xmlns:s="http://www.deegree.org/metadata/spatial"
             configVersion="3.2.0">
 
-    <!-- Bergen -->
-    <TileLayer>
-        <l:Name>Bergen_actueel</l:Name>
-        <d:Title>Luchtfoto Bergen Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_2020">Bergen_2020</TileDataSet>
-    </TileLayer>
-
-    <!-- Heusden -->
-    <TileLayer>
-        <l:Name>Heusden_actueel</l:Name>
-        <d:Title>Luchtfoto Heusden Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Heusden_actueel</TileDataSet>
-    </TileLayer>
-
     <!-- Maassluis -->
     <TileLayer>
         <l:Name>Maassluis_actueel</l:Name>
@@ -35,14 +19,6 @@
         <TileDataSet tileStoreId="Ronnico_2021">Maassluis_2021</TileDataSet>
     </TileLayer>
 
-    <!-- Medemblik -->
-    <TileLayer>
-        <l:Name>Medemblik_actueel</l:Name>
-        <d:Title>Luchtfoto Medemblik Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Medemblik_actueel</TileDataSet>
-    </TileLayer>
-
     <!-- MiddenDelfland -->
     <TileLayer>
         <l:Name>MiddenDelfland_actueel</l:Name>
@@ -56,60 +32,6 @@
         <d:Title>Luchtfoto Midden-Delfland 2021</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
         <TileDataSet tileStoreId="Ronnico_2021">MiddenDelfland_2021</TileDataSet>
-    </TileLayer>
-
-    <!-- Moerdijk -->
-    <TileLayer>
-        <l:Name>Moerdijk_actueel</l:Name>
-        <d:Title>Luchtfoto Moerdijk Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Moerdijk_actueel</TileDataSet>
-    </TileLayer>
-
-    <!-- Oirschot -->
-    <TileLayer>
-        <l:Name>Oirschot_actueel</l:Name>
-        <d:Title>Luchtfoto Oirschot Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_2020">Oirschot_2020</TileDataSet>
-    </TileLayer>
-
-    <TileLayer>
-        <l:Name>Oirschot_2020</l:Name>
-        <d:Title>Luchtfoto Oirschot 2020</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_2020">Oirschot_2020</TileDataSet>
-    </TileLayer>
-
-    <!-- Roerdalen -->
-    <TileLayer>
-        <l:Name>Roerdalen_actueel</l:Name>
-        <d:Title>Luchtfoto Roerdalen Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_2020">Roerdalen_2020</TileDataSet>
-    </TileLayer>
-
-    <TileLayer>
-        <l:Name>Roerdalen_2020</l:Name>
-        <d:Title>Luchtfoto Roerdalen 2020</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_2020">Roerdalen_2020</TileDataSet>
-    </TileLayer>
-
-    <!-- Ronde Venen -->
-    <TileLayer>
-        <l:Name>Ronde_Venen_actueel</l:Name>
-        <d:Title>Luchtfoto De Ronde Venen Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Ronde_Venen_actueel</TileDataSet>
-    </TileLayer>
-
-    <!-- Vijherenlanden -->
-    <TileLayer>
-        <l:Name>Vijfherenlanden_actueel</l:Name>
-        <d:Title>Luchtfoto Vijfherenlanden Actueel</d:Title>
-        <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Ronnico_actueel">Vijfherenlanden_actueel</TileDataSet>
     </TileLayer>
 
 </TileLayers>
