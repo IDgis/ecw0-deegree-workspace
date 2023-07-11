@@ -6,10 +6,31 @@
   <Theme>    
     <d:Title>Rijssen-Holten foto's</d:Title>
     <s:CRS>EPSG:28992</s:CRS>
+
+    <!-- Rijssen-Holten -->
     <Theme>
       <Identifier>Rijssen_Holten</Identifier>
-      <d:Title>Luchtfoto gemeente Rijssen-Holten 2018</d:Title>
+      <d:Title>Luchtfoto Rijssen-Holten Actueel</d:Title>
       <Layer>Rijssen_Holten</Layer>
     </Theme>
+
+    <Theme>
+      <Identifier>Rijssen_Holten_2023</Identifier>
+      <d:Title>Luchtfoto Rijssen-Holten 2023</d:Title>
+      <Layer>Rijssen_Holten_2023</Layer>
+    </Theme>
+
+    <Theme>
+      <Identifier>Rijssen_Holten_2021</Identifier>
+      <d:Title>Luchtfoto Rijssen-Holten 2021</d:Title>
+      <Layer>Rijssen_Holten_2021</Layer>
+    </Theme>
+
+    <Theme>
+      <Identifier>Rijssen_Holten_2018</Identifier>
+      <d:Title>Luchtfoto Rijssen-Holten 2018</d:Title>
+      <Layer>Rijssen_Holten_2018</Layer>
+    </Theme>
+
   </Theme>
 </Themes>
