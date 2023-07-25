@@ -14,6 +14,12 @@
         </Theme>
 
         <Theme>
+            <Identifier>Soest_2023</Identifier>
+            <d:Title>Luchtfoto Soest 2023</d:Title>
+            <Layer>Soest_2023</Layer>
+        </Theme>
+
+        <Theme>
             <Identifier>Soest_2022</Identifier>
             <d:Title>Luchtfoto Soest 2022</d:Title>
             <Layer>Soest_2022</Layer>
