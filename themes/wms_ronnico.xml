@@ -9,31 +9,5 @@
         <d:Title>Luchtfoto's</d:Title>
         <s:CRS>EPSG:28992 EPSG:25831 EPSG:25832 EPSG:31466 EPSG:31467 EPSG:4326 EPSG:3857 EPSG:3035 EPSG:3034 EPSG:4258 EPSG:3043 EPSG:3044</s:CRS>
 
-        <!-- Maassluis -->
-        <Theme>
-            <Identifier>Maassluis_actueel</Identifier>
-            <d:Title>Luchtfoto Maassluis Actueel</d:Title>
-            <Layer>Maassluis_actueel</Layer>
-        </Theme>
-
-        <Theme>
-            <Identifier>Maassluis_2021</Identifier>
-            <d:Title>Luchtfoto Maassluis 2021</d:Title>
-            <Layer>Maassluis_2021</Layer>
-        </Theme>
-
-        <!-- MiddenDelfland -->
-        <Theme>
-            <Identifier>MiddenDelfland_actueel</Identifier>
-            <d:Title>Luchtfoto Midden-Delfland Actueel</d:Title>
-            <Layer>MiddenDelfland_actueel</Layer>
-        </Theme>
-
-        <Theme>
-            <Identifier>MiddenDelfland_2021</Identifier>
-            <d:Title>Luchtfoto Midden-Delfland 2021</d:Title>
-            <Layer>MiddenDelfland_2021</Layer>
-        </Theme>
-
     </Theme>
 </Themes>
