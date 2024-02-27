@@ -4,4 +4,34 @@
             xmlns:s="http://www.deegree.org/metadata/spatial"
             configVersion="3.2.0">
 
+    <!-- Nijkerk -->
+    <TileLayer>
+        <l:Name>Nijkerk_actueel</l:Name>
+        <d:Title>Luchtfoto Nijkerk Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Nijkerk_2023">Nijkerk_2023</TileDataSet>
+    </TileLayer>
+
+    <TileLayer>
+        <l:Name>Nijkerk_2023</l:Name>
+        <d:Title>Luchtfoto Nijkerk 2023</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Nijkerk_2023">Nijkerk_2023</TileDataSet>
+    </TileLayer>
+
+    <!-- Staphorst -->
+    <TileLayer>
+        <l:Name>Staphorst_actueel</l:Name>
+        <d:Title>Luchtfoto Staphorst Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Staphorst_2024">Staphorst_2024</TileDataSet>
+    </TileLayer>
+
+    <TileLayer>
+        <l:Name>Staphorst_2024</l:Name>
+        <d:Title>Luchtfoto Staphorst 2024</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Staphorst_2024">Staphorst_2024</TileDataSet>
+    </TileLayer>
+
 </TileLayers>
