@@ -9,5 +9,31 @@
         <d:Title>Luchtfoto's</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
 
+        <!-- Nijkerk -->
+        <Theme>
+            <Identifier>Nijkerk_actueel</Identifier>
+            <d:Title>Luchtfoto gemeente Nijkerk Actueel</d:Title>
+            <Layer>Nijkerk_actueel</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>Nijkerk_2023</Identifier>
+            <d:Title>Luchtfoto gemeente Nijkerk 2023</d:Title>
+            <Layer>Nijkerk_2023</Layer>
+        </Theme>
+
+        <!-- Staphorst -->
+        <Theme>
+            <Identifier>Staphorst_actueel</Identifier>
+            <d:Title>Luchtfoto gemeente Staphorst Actueel</d:Title>
+            <Layer>Staphorst_actueel</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>Staphorst_2024</Identifier>
+            <d:Title>Luchtfoto gemeente Staphorst 2024</d:Title>
+            <Layer>Staphorst_2024</Layer>
+        </Theme>
+
     </Theme>
 </Themes>
