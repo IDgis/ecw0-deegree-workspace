@@ -7,7 +7,7 @@
         <wms:ThemeId>wms_soest</wms:ThemeId>
     </wms:ServiceConfiguration>
 
-    <wms:MaxWidth>2900</wms:MaxWidth>
-    <wms:MaxHeight>1400</wms:MaxHeight>
+    <wms:MaxWidth>4000</wms:MaxWidth>
+    <wms:MaxHeight>2000</wms:MaxHeight>
 
 </wms:deegreeWMS>
