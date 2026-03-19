@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
 
-    <!-- TODO: configureren -->
+    <!-- Noardeast-Fryslan en Dantumadiel -->
     <TileDataSet>
-        <Identifier>Noardeast_Fryslan_2026</Identifier>
+        <Identifier>Noardeast_Fryslan_2025</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Noardeast_Fryslan/2026/dummy.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/2025/Luchtfoto_2025_DNF_5_cm.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 

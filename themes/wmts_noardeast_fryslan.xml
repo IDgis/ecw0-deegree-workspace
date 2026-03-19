@@ -7,12 +7,12 @@
         <d:Title>Luchtfoto's Noardeast-Fryslan en Dantumadiel</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
 
-        <!-- TODO: configureren -->
+        <!-- Noardeast-Fryslan en Dantumadiel -->
         <Theme>
             <Identifier>Noardeast_Fryslan</Identifier>
-            <d:Title>Luchtfoto Noardeast-Fryslan</d:Title>
+            <d:Title>Luchtfoto Noardeast-Fryslan en Dantumadiel</d:Title>
             <Layer>Noardeast_Fryslan_actueel</Layer>
-            <Layer>Noardeast_Fryslan_2026</Layer>
+            <Layer>Noardeast_Fryslan_2025</Layer>
         </Theme>
 
     </Theme>
