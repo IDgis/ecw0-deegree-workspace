@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Themes configVersion="3.2.0" xmlns="http://www.deegree.org/themes/standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:d="http://www.deegree.org/metadata/description"
+        xmlns:s="http://www.deegree.org/metadata/spatial" xsi:schemaLocation="http://www.deegree.org/themes/standard http://schemas.deegree.org/themes/3.4.0/themes.xsd">
+    <LayerStoreId>wmts_alblasserdam</LayerStoreId>
+    <Theme>
+        <d:Title>Luchtfoto's Alblasserdam</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+
+        <!-- Alblasserdam -->
+        <Theme>
+            <Identifier>Alblasserdam</Identifier>
+            <d:Title>Luchtfoto Alblasserdam</d:Title>
+            <Layer>Alblasserdam_actueel</Layer>
+            <Layer>Alblasserdam_2025</Layer>
+        </Theme>
+
+    </Theme>
+</Themes>
