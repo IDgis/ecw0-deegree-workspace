@@ -1,0 +1,22 @@
+<TileLayers xmlns="http://www.deegree.org/layers/tile"
+            xmlns:d="http://www.deegree.org/metadata/description"
+            xmlns:l="http://www.deegree.org/layers/base"
+            xmlns:s='http://www.deegree.org/metadata/spatial'
+            configVersion="3.2.0">
+
+    <!-- Baarn -->
+    <TileLayer>
+        <l:Name>Baarn_actueel</l:Name>
+        <d:Title>Luchtfoto Baarn Actueel</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico">Baarn_2025</TileDataSet>
+    </TileLayer>
+
+    <TileLayer>
+        <l:Name>Baarn_2025</l:Name>
+        <d:Title>Luchtfoto Baarn 2025</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Ronnico">Baarn_2025</TileDataSet>
+    </TileLayer>
+
+</TileLayers>
