@@ -1,13 +1,22 @@
 <GDALLayers xmlns="http://www.deegree.org/layers/gdal" xmlns:d="http://www.deegree.org/metadata/description"
             xmlns:l="http://www.deegree.org/layers/base" xmlns:s='http://www.deegree.org/metadata/spatial' configVersion="3.4.0">
 
-    <!-- Noardeast-Fryslan en Dantumadiel -->
+    <!-- Dokkum -->
     <GDALLayer>
-        <l:Name>Noardeast_Fryslan_2025</l:Name>
-        <d:Title>Luchtfoto Noardeast-Fryslan en Dantumadiel 2025</d:Title>
+        <l:Name>Dokkum_1940</l:Name>
+        <d:Title>Luchtfoto Dokkum 1940</d:Title>
         <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
         <l:ScaleDenominators min="0" max="100000000" />
-        <File>/var/lufo/Noardeast_Fryslan/2025/Luchtfoto_2025_DNF_5_cm.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/1940/Dokkum_lufo_1940.ecw</File>
+    </GDALLayer>
+
+    <!-- Dongeradeel -->
+    <GDALLayer>
+        <l:Name>Dongeradeel_1986</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 1986</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/1986/Luchtfoto_1986_Dongeradeel.ecw</File>
     </GDALLayer>
 
 </GDALLayers>
