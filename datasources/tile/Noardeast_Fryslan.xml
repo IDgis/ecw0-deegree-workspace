@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
 
-    <!-- Noardeast-Fryslan en Dantumadiel -->
+    <!-- Dokkum -->
     <TileDataSet>
-        <Identifier>Noardeast_Fryslan_2025</Identifier>
+        <Identifier>Dokkum_1940</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Noardeast_Fryslan/2025/Luchtfoto_2025_DNF_5_cm.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/1940/Dokkum_lufo_1940.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
+    <!-- Dongeradeel -->
+    <TileDataSet>
+        <Identifier>Dongeradeel_1986</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/1986/Luchtfoto_1986_Dongeradeel.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 

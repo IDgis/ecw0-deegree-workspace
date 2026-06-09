@@ -6,17 +6,30 @@
         <d:Title>Luchtfoto's Noardeast-Fryslan en Dantumadiel</d:Title>
         <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
 
-        <!-- Noardeast-Fryslan en Dantumadiel -->
+        <!-- Dokkum -->
         <Theme>
-            <Identifier>Noardeast_Fryslan_actueel</Identifier>
-            <d:Title>Luchtfoto Noardeast-Fryslan en Dantumadiel Actueel</d:Title>
-            <Layer>Noardeast_Fryslan_2025</Layer>
+            <Identifier>Dokkum_actueel</Identifier>
+            <d:Title>Luchtfoto Dokkum Actueel</d:Title>
+            <Layer>Dokkum_1940</Layer>
         </Theme>
 
         <Theme>
-            <Identifier>Noardeast_Fryslan_2025</Identifier>
-            <d:Title>Luchtfoto Noardeast-Fryslan en Dantumadiel 2025</d:Title>
-            <Layer>Noardeast_Fryslan_2025</Layer>
+            <Identifier>Dokkum_1940</Identifier>
+            <d:Title>Luchtfoto Dokkum 1940</d:Title>
+            <Layer>Dokkum_1940</Layer>
+        </Theme>
+
+        <!-- Dongeradeel -->
+        <Theme>
+            <Identifier>Dongeradeel_actueel</Identifier>
+            <d:Title>Luchtfoto Dongeradeel Actueel</d:Title>
+            <Layer>Dongeradeel_1986</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>Dongeradeel_1986</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 1986</d:Title>
+            <Layer>Dongeradeel_1986</Layer>
         </Theme>
 
     </Theme>

@@ -157,4 +157,13 @@
     <MatrixWidth>65536</MatrixWidth>
     <MatrixHeight>65536</MatrixHeight>
   </TileMatrix>
+  <TileMatrix>
+    <Identifier>EPSG:28992:17</Identifier>
+    <ScaleDenominator>93.75</ScaleDenominator>
+    <TopLeftCorner>-285401.92 903401.92</TopLeftCorner>
+    <TileWidth>256</TileWidth>
+    <TileHeight>256</TileHeight>
+    <MatrixWidth>131072</MatrixWidth>
+    <MatrixHeight>131072</MatrixHeight>
+  </TileMatrix>
 </TileMatrixSet>
