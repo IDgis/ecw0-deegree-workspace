@@ -9,4 +9,11 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
+    <TileDataSet>
+        <Identifier>Alblasserdam_2026</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Alblasserdam/2026/D26001_Alblasserdam_True_50.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
 </GDALTileStore>
