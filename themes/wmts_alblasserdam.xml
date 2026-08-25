@@ -12,6 +12,7 @@
             <Identifier>Alblasserdam</Identifier>
             <d:Title>Luchtfoto Alblasserdam</d:Title>
             <Layer>Alblasserdam_actueel</Layer>
+            <Layer>Alblasserdam_2026</Layer>
             <Layer>Alblasserdam_2025</Layer>
         </Theme>
 

@@ -10,7 +10,13 @@
         <Theme>
             <Identifier>Alblasserdam_actueel</Identifier>
             <d:Title>Luchtfoto Alblasserdam Actueel</d:Title>
-            <Layer>Alblasserdam_2025</Layer>
+            <Layer>Alblasserdam_2026</Layer>
+        </Theme>
+
+        <Theme>
+            <Identifier>Alblasserdam_2026</Identifier>
+            <d:Title>Luchtfoto Alblasserdam 2026</d:Title>
+            <Layer>Alblasserdam_2026</Layer>
         </Theme>
 
         <Theme>
