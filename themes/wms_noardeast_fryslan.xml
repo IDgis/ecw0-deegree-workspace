@@ -97,5 +97,22 @@
             <Layer>Dongeradeel_1950</Layer>
         </Theme>
 
+        <!-- Ferwerderadiel -->
+        <Theme>
+            <Identifier>Ferwerderadiel_2013</Identifier>
+            <d:Title>Luchtfoto Ferwerderadiel 2013</d:Title>
+            <Layer>Ferwerderadiel_2013</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Ferwerderadiel_2011</Identifier>
+            <d:Title>Luchtfoto Ferwerderadiel 2011</d:Title>
+            <Layer>Ferwerderadiel_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Ferwerderadiel_2009</Identifier>
+            <d:Title>Luchtfoto Ferwerderadiel 2009</d:Title>
+            <Layer>Ferwerderadiel_2009</Layer>
+        </Theme>
+
     </Theme>
 </Themes>

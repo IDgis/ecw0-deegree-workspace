@@ -112,4 +112,24 @@
         <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_1950</TileDataSet>
     </TileLayer>
 
+    <!-- Ferwerderadiel -->
+    <TileLayer>
+        <l:Name>Ferwerderadiel_2013</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2013</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Ferwerderadiel_2013</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Ferwerderadiel_2011</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2011</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Ferwerderadiel_2011</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Ferwerderadiel_2009</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2009</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Ferwerderadiel_2009</TileDataSet>
+    </TileLayer>
+
 </TileLayers>

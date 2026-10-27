@@ -126,4 +126,27 @@
         <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_1950_Dongeradeel.ecw</File>
     </GDALLayer>
 
+    <!-- Ferwerderadiel -->
+    <GDALLayer>
+        <l:Name>Ferwerderadiel_2013</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2013</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Ferwerderadiel/Luchtfoto_2013_Ferwerderadiel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Ferwerderadiel_2011</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2011</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Ferwerderadiel/Luchtfoto_2011_Ferwerderadiel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Ferwerderadiel_2009</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2009</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Ferwerderadiel/Luchtfoto_2009_Ferwerderadiel.ecw</File>
+    </GDALLayer>
+
 </GDALLayers>
