@@ -4,6 +4,56 @@
             xmlns:s='http://www.deegree.org/metadata/spatial'
             configVersion="3.2.0">
 
+    <!-- Dantumadiel -->
+    <TileLayer>
+        <l:Name>Dantumadiel_2013</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2013</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2013</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2012</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2012</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2012</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2011</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2011</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2011</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2008</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2008</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2008</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2004</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2004</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2004</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2000</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2000</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2000</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_1996</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 1996</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_1996</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_1992</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 1992</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_1992</TileDataSet>
+    </TileLayer>
+
     <!-- Dokkum -->
     <TileLayer>
         <l:Name>Dokkum_actueel</l:Name>

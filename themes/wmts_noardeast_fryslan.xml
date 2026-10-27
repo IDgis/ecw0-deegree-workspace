@@ -7,6 +7,20 @@
         <d:Title>Luchtfoto's Noardeast-Fryslan en Dantumadiel</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
 
+        <!-- Dantumadiel -->
+        <Theme>
+            <Identifier>Dantumadiel</Identifier>
+            <d:Title>Luchtfoto Dantumadiel</d:Title>
+            <Layer>Dantumadiel_2013</Layer>
+            <Layer>Dantumadiel_2012</Layer>
+            <Layer>Dantumadiel_2011</Layer>
+            <Layer>Dantumadiel_2008</Layer>
+            <Layer>Dantumadiel_2004</Layer>
+            <Layer>Dantumadiel_2000</Layer>
+            <Layer>Dantumadiel_1996</Layer>
+            <Layer>Dantumadiel_1992</Layer>
+        </Theme>
+
         <!-- Dokkum -->
         <Theme>
             <Identifier>Dokkum</Identifier>

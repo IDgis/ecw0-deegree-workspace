@@ -6,6 +6,48 @@
         <d:Title>Luchtfoto's Noardeast-Fryslan en Dantumadiel</d:Title>
         <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
 
+        <!-- Dantumadiel -->
+        <Theme>
+            <Identifier>Dantumadiel_2013</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2013</d:Title>
+            <Layer>Dantumadiel_2013</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2012</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2012</d:Title>
+            <Layer>Dantumadiel_2012</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2011</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2011</d:Title>
+            <Layer>Dantumadiel_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2008</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2008</d:Title>
+            <Layer>Dantumadiel_2008</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2004</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2004</d:Title>
+            <Layer>Dantumadiel_2004</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2000</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2000</d:Title>
+            <Layer>Dantumadiel_2000</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_1996</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 1996</d:Title>
+            <Layer>Dantumadiel_1996</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_1992</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 1992</d:Title>
+            <Layer>Dantumadiel_1992</Layer>
+        </Theme>
+
         <!-- Dokkum -->
         <Theme>
             <Identifier>Dokkum_actueel</Identifier>

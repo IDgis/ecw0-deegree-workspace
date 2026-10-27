@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
 
+    <!-- Dantumadiel -->
+    <TileDataSet>
+        <Identifier>Dantumadiel_2013</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2013_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2012</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2012_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2011</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2011_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2008</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2008_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2004</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2004_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2000</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2000_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_1996</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_1996_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_1992</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_1992_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
     <!-- Dokkum -->
     <TileDataSet>
         <Identifier>Dokkum_1940</Identifier>
