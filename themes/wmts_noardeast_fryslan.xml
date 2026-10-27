@@ -25,7 +25,6 @@
         <Theme>
             <Identifier>Dokkum</Identifier>
             <d:Title>Luchtfoto Dokkum</d:Title>
-            <Layer>Dokkum_actueel</Layer>
             <Layer>Dokkum_1940</Layer>
         </Theme>
 
@@ -33,7 +32,6 @@
         <Theme>
             <Identifier>Dongeradeel</Identifier>
             <d:Title>Luchtfoto Dongeradeel</d:Title>
-            <Layer>Dongeradeel_actueel</Layer>
             <Layer>Dongeradeel_1986</Layer>
         </Theme>
 

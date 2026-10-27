@@ -50,24 +50,12 @@
 
         <!-- Dokkum -->
         <Theme>
-            <Identifier>Dokkum_actueel</Identifier>
-            <d:Title>Luchtfoto Dokkum Actueel</d:Title>
-            <Layer>Dokkum_1940</Layer>
-        </Theme>
-
-        <Theme>
             <Identifier>Dokkum_1940</Identifier>
             <d:Title>Luchtfoto Dokkum 1940</d:Title>
             <Layer>Dokkum_1940</Layer>
         </Theme>
 
         <!-- Dongeradeel -->
-        <Theme>
-            <Identifier>Dongeradeel_actueel</Identifier>
-            <d:Title>Luchtfoto Dongeradeel Actueel</d:Title>
-            <Layer>Dongeradeel_1986</Layer>
-        </Theme>
-
         <Theme>
             <Identifier>Dongeradeel_1986</Identifier>
             <d:Title>Luchtfoto Dongeradeel 1986</d:Title>
