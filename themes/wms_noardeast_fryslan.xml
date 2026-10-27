@@ -57,9 +57,44 @@
 
         <!-- Dongeradeel -->
         <Theme>
+            <Identifier>Dongeradeel_2013</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2013</d:Title>
+            <Layer>Dongeradeel_2013</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2012</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2012</d:Title>
+            <Layer>Dongeradeel_2012</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2011</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2011</d:Title>
+            <Layer>Dongeradeel_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2010</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2010</d:Title>
+            <Layer>Dongeradeel_2010</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2008</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2008</d:Title>
+            <Layer>Dongeradeel_2008</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2004</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2004</d:Title>
+            <Layer>Dongeradeel_2004</Layer>
+        </Theme>
+        <Theme>
             <Identifier>Dongeradeel_1986</Identifier>
             <d:Title>Luchtfoto Dongeradeel 1986</d:Title>
             <Layer>Dongeradeel_1986</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_1950</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 1950</d:Title>
+            <Layer>Dongeradeel_1950</Layer>
         </Theme>
 
     </Theme>

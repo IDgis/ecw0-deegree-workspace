@@ -61,9 +61,51 @@
 
     <!-- Dongeradeel -->
     <TileDataSet>
+        <Identifier>Dongeradeel_2013</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2013_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2012</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2012_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2011</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2011_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2010</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2010_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2008</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2008_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2004</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2004_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
         <Identifier>Dongeradeel_1986</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Noardeast_Fryslan/1986/Luchtfoto_1986_Dongeradeel.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_1986_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_1950</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_1950_Dongeradeel.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 

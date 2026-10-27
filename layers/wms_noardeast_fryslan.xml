@@ -70,11 +70,60 @@
 
     <!-- Dongeradeel -->
     <GDALLayer>
+        <l:Name>Dongeradeel_2013</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2013</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2013_Dongeradeel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Dongeradeel_2012</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2012</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2012_Dongeradeel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Dongeradeel_2011</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2011</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2011_Dongeradeel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Dongeradeel_2010</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2010</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2010_Dongeradeel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Dongeradeel_2008</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2008</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2008_Dongeradeel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Dongeradeel_2004</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2004</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2004_Dongeradeel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
         <l:Name>Dongeradeel_1986</l:Name>
         <d:Title>Luchtfoto Dongeradeel 1986</d:Title>
         <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
         <l:ScaleDenominators min="0" max="100000000" />
-        <File>/var/lufo/Noardeast_Fryslan/1986/Luchtfoto_1986_Dongeradeel.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_1986_Dongeradeel.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Dongeradeel_1950</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 1950</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_1950_Dongeradeel.ecw</File>
     </GDALLayer>
 
 </GDALLayers>

@@ -32,7 +32,14 @@
         <Theme>
             <Identifier>Dongeradeel</Identifier>
             <d:Title>Luchtfoto Dongeradeel</d:Title>
+            <Layer>Dongeradeel_2013</Layer>
+            <Layer>Dongeradeel_2012</Layer>
+            <Layer>Dongeradeel_2011</Layer>
+            <Layer>Dongeradeel_2010</Layer>
+            <Layer>Dongeradeel_2008</Layer>
+            <Layer>Dongeradeel_2004</Layer>
             <Layer>Dongeradeel_1986</Layer>
+            <Layer>Dongeradeel_1950</Layer>
         </Theme>
 
     </Theme>
