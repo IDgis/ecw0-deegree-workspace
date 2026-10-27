@@ -1,19 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GDALTileStore xmlns="http://www.deegree.org/datasource/tile/gdal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.deegree.org/datasource/tile/gdal http://schemas.deegree.org/datasource/tile/gdal/3.4.0/gdal.xsd" configVersion="3.4.0">
 
+    <!-- Dantumadiel -->
+    <TileDataSet>
+        <Identifier>Dantumadiel_2013</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2013_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2012</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2012_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2011</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2011_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2008</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2008_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2004</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2004_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_2000</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_2000_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_1996</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_1996_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dantumadiel_1992</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_1992_Dantumadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
     <!-- Dokkum -->
     <TileDataSet>
         <Identifier>Dokkum_1940</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Noardeast_Fryslan/1940/Dokkum_lufo_1940.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/Dokkum/Luchtfoto_1940_Dokkum.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
     <!-- Dongeradeel -->
     <TileDataSet>
+        <Identifier>Dongeradeel_2013</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2013_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2012</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2012_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2011</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2011_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2010</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2010_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2008</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2008_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_2004</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_2004_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
         <Identifier>Dongeradeel_1986</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Noardeast_Fryslan/1986/Luchtfoto_1986_Dongeradeel.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_1986_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Dongeradeel_1950</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Dongeradeel/Luchtfoto_1950_Dongeradeel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
+    <!-- Ferwerderadiel -->
+    <TileDataSet>
+        <Identifier>Ferwerderadiel_2013</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Ferwerderadiel/Luchtfoto_2013_Ferwerderadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Ferwerderadiel_2011</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Ferwerderadiel/Luchtfoto_2011_Ferwerderadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Ferwerderadiel_2009</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Ferwerderadiel/Luchtfoto_2009_Ferwerderadiel.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
+    <!-- Kollumerland -->
+    <TileDataSet>
+        <Identifier>Kollumerland_2013</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2013_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2012</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2012_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2011</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2011_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2010</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2010_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2008</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2008_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2004</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2004_Kollumerland.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 

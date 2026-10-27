@@ -4,14 +4,57 @@
             xmlns:s='http://www.deegree.org/metadata/spatial'
             configVersion="3.2.0">
 
-    <!-- Dokkum -->
+    <!-- Dantumadiel -->
     <TileLayer>
-        <l:Name>Dokkum_actueel</l:Name>
-        <d:Title>Luchtfoto Dokkum Actueel</d:Title>
+        <l:Name>Dantumadiel_2013</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2013</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Noardeast_Fryslan">Dokkum_1940</TileDataSet>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2013</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2012</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2012</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2012</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2011</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2011</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2011</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2008</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2008</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2008</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2004</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2004</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2004</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_2000</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 2000</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_2000</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_1996</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 1996</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_1996</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dantumadiel_1992</l:Name>
+        <d:Title>Luchtfoto Dantumadiel 1992</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_1992</TileDataSet>
     </TileLayer>
 
+    <!-- Dokkum -->
     <TileLayer>
         <l:Name>Dokkum_1940</l:Name>
         <d:Title>Luchtfoto Dokkum 1940</d:Title>
@@ -21,17 +64,110 @@
 
     <!-- Dongeradeel -->
     <TileLayer>
-        <l:Name>Dongeradeel_actueel</l:Name>
-        <d:Title>Luchtfoto Dongeradeel Actueel</d:Title>
+        <l:Name>Dongeradeel_2013</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2013</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
-        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_1986</TileDataSet>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_2013</TileDataSet>
     </TileLayer>
-
+    <TileLayer>
+        <l:Name>Dongeradeel_2012</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2012</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_2012</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dongeradeel_2011</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2011</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_2011</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dongeradeel_2010</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2010</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_2010</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dongeradeel_2008</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2008</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_2008</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dongeradeel_2004</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 2004</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_2004</TileDataSet>
+    </TileLayer>
     <TileLayer>
         <l:Name>Dongeradeel_1986</l:Name>
         <d:Title>Luchtfoto Dongeradeel 1986</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
         <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_1986</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Dongeradeel_1950</l:Name>
+        <d:Title>Luchtfoto Dongeradeel 1950</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Dongeradeel_1950</TileDataSet>
+    </TileLayer>
+
+    <!-- Ferwerderadiel -->
+    <TileLayer>
+        <l:Name>Ferwerderadiel_2013</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2013</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Ferwerderadiel_2013</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Ferwerderadiel_2011</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2011</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Ferwerderadiel_2011</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Ferwerderadiel_2009</l:Name>
+        <d:Title>Luchtfoto Ferwerderadiel 2009</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Ferwerderadiel_2009</TileDataSet>
+    </TileLayer>
+
+    <!-- Kollumerland -->
+    <TileLayer>
+        <l:Name>Kollumerland_2013</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2013</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Kollumerland_2013</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Kollumerland_2012</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2012</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Kollumerland_2012</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Kollumerland_2011</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2011</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Kollumerland_2011</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Kollumerland_2010</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2010</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Kollumerland_2010</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Kollumerland_2008</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2008</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Kollumerland_2008</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>Kollumerland_2004</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2004</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">Kollumerland_2004</TileDataSet>
     </TileLayer>
 
 </TileLayers>

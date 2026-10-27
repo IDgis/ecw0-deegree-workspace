@@ -6,13 +6,49 @@
         <d:Title>Luchtfoto's Noardeast-Fryslan en Dantumadiel</d:Title>
         <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
 
-        <!-- Dokkum -->
+        <!-- Dantumadiel -->
         <Theme>
-            <Identifier>Dokkum_actueel</Identifier>
-            <d:Title>Luchtfoto Dokkum Actueel</d:Title>
-            <Layer>Dokkum_1940</Layer>
+            <Identifier>Dantumadiel_2013</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2013</d:Title>
+            <Layer>Dantumadiel_2013</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2012</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2012</d:Title>
+            <Layer>Dantumadiel_2012</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2011</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2011</d:Title>
+            <Layer>Dantumadiel_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2008</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2008</d:Title>
+            <Layer>Dantumadiel_2008</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2004</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2004</d:Title>
+            <Layer>Dantumadiel_2004</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_2000</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 2000</d:Title>
+            <Layer>Dantumadiel_2000</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_1996</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 1996</d:Title>
+            <Layer>Dantumadiel_1996</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dantumadiel_1992</Identifier>
+            <d:Title>Luchtfoto Dantumadiel 1992</d:Title>
+            <Layer>Dantumadiel_1992</Layer>
         </Theme>
 
+        <!-- Dokkum -->
         <Theme>
             <Identifier>Dokkum_1940</Identifier>
             <d:Title>Luchtfoto Dokkum 1940</d:Title>
@@ -21,15 +57,93 @@
 
         <!-- Dongeradeel -->
         <Theme>
-            <Identifier>Dongeradeel_actueel</Identifier>
-            <d:Title>Luchtfoto Dongeradeel Actueel</d:Title>
-            <Layer>Dongeradeel_1986</Layer>
+            <Identifier>Dongeradeel_2013</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2013</d:Title>
+            <Layer>Dongeradeel_2013</Layer>
         </Theme>
-
+        <Theme>
+            <Identifier>Dongeradeel_2012</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2012</d:Title>
+            <Layer>Dongeradeel_2012</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2011</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2011</d:Title>
+            <Layer>Dongeradeel_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2010</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2010</d:Title>
+            <Layer>Dongeradeel_2010</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2008</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2008</d:Title>
+            <Layer>Dongeradeel_2008</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_2004</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 2004</d:Title>
+            <Layer>Dongeradeel_2004</Layer>
+        </Theme>
         <Theme>
             <Identifier>Dongeradeel_1986</Identifier>
             <d:Title>Luchtfoto Dongeradeel 1986</d:Title>
             <Layer>Dongeradeel_1986</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Dongeradeel_1950</Identifier>
+            <d:Title>Luchtfoto Dongeradeel 1950</d:Title>
+            <Layer>Dongeradeel_1950</Layer>
+        </Theme>
+
+        <!-- Ferwerderadiel -->
+        <Theme>
+            <Identifier>Ferwerderadiel_2013</Identifier>
+            <d:Title>Luchtfoto Ferwerderadiel 2013</d:Title>
+            <Layer>Ferwerderadiel_2013</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Ferwerderadiel_2011</Identifier>
+            <d:Title>Luchtfoto Ferwerderadiel 2011</d:Title>
+            <Layer>Ferwerderadiel_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Ferwerderadiel_2009</Identifier>
+            <d:Title>Luchtfoto Ferwerderadiel 2009</d:Title>
+            <Layer>Ferwerderadiel_2009</Layer>
+        </Theme>
+
+        <!-- Kollumerland -->
+        <Theme>
+            <Identifier>Kollumerland_2013</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2013</d:Title>
+            <Layer>Kollumerland_2013</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2012</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2012</d:Title>
+            <Layer>Kollumerland_2012</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2011</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2011</d:Title>
+            <Layer>Kollumerland_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2010</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2010</d:Title>
+            <Layer>Kollumerland_2010</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2008</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2008</d:Title>
+            <Layer>Kollumerland_2008</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2004</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2004</d:Title>
+            <Layer>Kollumerland_2004</Layer>
         </Theme>
 
     </Theme>
