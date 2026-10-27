@@ -129,4 +129,42 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
+    <!-- Kollumerland -->
+    <TileDataSet>
+        <Identifier>Kollumerland_2013</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2013_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2012</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2012_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2011</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2011_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2010</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2010_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2008</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2008_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>Kollumerland_2004</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2004_Kollumerland.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
 </GDALTileStore>

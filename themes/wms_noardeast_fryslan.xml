@@ -114,5 +114,37 @@
             <Layer>Ferwerderadiel_2009</Layer>
         </Theme>
 
+        <!-- Kollumerland -->
+        <Theme>
+            <Identifier>Kollumerland_2013</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2013</d:Title>
+            <Layer>Kollumerland_2013</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2012</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2012</d:Title>
+            <Layer>Kollumerland_2012</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2011</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2011</d:Title>
+            <Layer>Kollumerland_2011</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2010</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2010</d:Title>
+            <Layer>Kollumerland_2010</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2008</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2008</d:Title>
+            <Layer>Kollumerland_2008</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>Kollumerland_2004</Identifier>
+            <d:Title>Luchtfoto Kollumerland 2004</d:Title>
+            <Layer>Kollumerland_2004</Layer>
+        </Theme>
+
     </Theme>
 </Themes>

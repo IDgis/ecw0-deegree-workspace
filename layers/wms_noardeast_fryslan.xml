@@ -149,4 +149,48 @@
         <File>/var/lufo/Noardeast_Fryslan/Ferwerderadiel/Luchtfoto_2009_Ferwerderadiel.ecw</File>
     </GDALLayer>
 
+    <!-- Kollumerland -->
+    <GDALLayer>
+        <l:Name>Kollumerland_2013</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2013</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2013_Kollumerland.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Kollumerland_2012</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2012</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2012_Kollumerland.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Kollumerland_2011</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2011</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2011_Kollumerland.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Kollumerland_2010</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2010</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2010_Kollumerland.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Kollumerland_2008</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2008</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2008_Kollumerland.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>Kollumerland_2004</l:Name>
+        <d:Title>Luchtfoto Kollumerland 2004</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/Kollumerland/Luchtfoto_2004_Kollumerland.ecw</File>
+    </GDALLayer>
+
 </GDALLayers>

@@ -51,5 +51,17 @@
             <Layer>Ferwerderadiel_2009</Layer>
         </Theme>
 
+        <!-- Kollumerland -->
+        <Theme>
+            <Identifier>Kollumerland</Identifier>
+            <d:Title>Luchtfoto Kollumerland</d:Title>
+            <Layer>Kollumerland_2013</Layer>
+            <Layer>Kollumerland_2012</Layer>
+            <Layer>Kollumerland_2011</Layer>
+            <Layer>Kollumerland_2010</Layer>
+            <Layer>Kollumerland_2008</Layer>
+            <Layer>Kollumerland_2004</Layer>
+        </Theme>
+
     </Theme>
 </Themes>
