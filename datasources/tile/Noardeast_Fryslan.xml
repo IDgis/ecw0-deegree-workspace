@@ -55,7 +55,7 @@
     <TileDataSet>
         <Identifier>Dokkum_1940</Identifier>
         <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
-        <File>/var/lufo/Noardeast_Fryslan/1940/Dokkum_lufo_1940.ecw</File>
+        <File>/var/lufo/Noardeast_Fryslan/Dokkum/Luchtfoto_1940_Dokkum.ecw</File>
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
