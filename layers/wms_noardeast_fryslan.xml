@@ -59,6 +59,64 @@
         <File>/var/lufo/Noardeast_Fryslan/Dantumadiel/Luchtfoto_1992_Dantumadiel.ecw</File>
     </GDALLayer>
 
+    <!-- Dantumadiel en Noardeast-Fryslân -->
+    <GDALLayer>
+        <l:Name>DNF_2019</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2019</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2019_DNF.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>DNF_2018</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2018</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2018_DNF.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>DNF_2017</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2017</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2017_DNF.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>DNF_2016</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2016</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2016_DNF.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>DNF_2015</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2015</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2015_DNF.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>DNF_2014</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2014</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2014_DNF.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>DNF_1970</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 1970</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_1970_DNF.ecw</File>
+    </GDALLayer>
+    <GDALLayer>
+        <l:Name>DNF_1950</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 1950</d:Title>
+        <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
+        <l:ScaleDenominators min="0" max="100000000" />
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_1950_DNF.ecw</File>
+    </GDALLayer>
+
     <!-- Dokkum -->
     <GDALLayer>
         <l:Name>Dokkum_1940</l:Name>

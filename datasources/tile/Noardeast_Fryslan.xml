@@ -51,6 +51,56 @@
         <ImageFormat>image/jpg</ImageFormat>
     </TileDataSet>
 
+    <!-- Dantumadiel en Noardeast-Fryslân -->
+    <TileDataSet>
+        <Identifier>DNF_2019</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2019_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>DNF_2018</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2018_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>DNF_2017</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2017_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>DNF_2016</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2016_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>DNF_2015</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2015_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>DNF_2014</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_2014_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>DNF_1970</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_1970_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+    <TileDataSet>
+        <Identifier>DNF_1950</Identifier>
+        <TileMatrixSetId>NLDEPSG28992Scale</TileMatrixSetId>
+        <File>/var/lufo/Noardeast_Fryslan/DNF/Luchtfoto_1950_DNF.ecw</File>
+        <ImageFormat>image/jpg</ImageFormat>
+    </TileDataSet>
+
     <!-- Dokkum -->
     <TileDataSet>
         <Identifier>Dokkum_1940</Identifier>

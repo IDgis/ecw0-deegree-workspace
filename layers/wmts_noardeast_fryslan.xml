@@ -54,6 +54,56 @@
         <TileDataSet tileStoreId="Noardeast_Fryslan">Dantumadiel_1992</TileDataSet>
     </TileLayer>
 
+    <!-- Dantumadiel en Noardeast-Fryslân -->
+    <TileLayer>
+        <l:Name>DNF_2019</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2019</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_2019</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>DNF_2018</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2018</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_2018</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>DNF_2017</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2017</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_2017</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>DNF_2016</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2016</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_2016</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>DNF_2015</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2015</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_2015</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>DNF_2014</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2014</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_2014</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>DNF_1970</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 1970</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_1970</TileDataSet>
+    </TileLayer>
+    <TileLayer>
+        <l:Name>DNF_1950</l:Name>
+        <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 1950</d:Title>
+        <s:CRS>EPSG:28992</s:CRS>
+        <TileDataSet tileStoreId="Noardeast_Fryslan">DNF_1950</TileDataSet>
+    </TileLayer>
+
     <!-- Dokkum -->
     <TileLayer>
         <l:Name>Dokkum_1940</l:Name>
