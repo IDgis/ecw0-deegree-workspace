@@ -3,7 +3,7 @@
         xmlns:s="http://www.deegree.org/metadata/spatial" xsi:schemaLocation="http://www.deegree.org/themes/standard http://schemas.deegree.org/themes/3.4.0/themes.xsd">
     <LayerStoreId>wms_noardeast_fryslan</LayerStoreId>
     <Theme>
-        <d:Title>Luchtfoto's Noardeast-Fryslan en Dantumadiel</d:Title>
+        <d:Title>Luchtfoto's Dantumadiel en Noardeast-Fryslân</d:Title>
         <s:CRS>EPSG:28992 EPSG:4326 EPSG:3857 EPSG:4258</s:CRS>
 
         <!-- Dantumadiel -->
@@ -46,6 +46,48 @@
             <Identifier>Dantumadiel_1992</Identifier>
             <d:Title>Luchtfoto Dantumadiel 1992</d:Title>
             <Layer>Dantumadiel_1992</Layer>
+        </Theme>
+
+        <!-- Dantumadiel en Noardeast-Fryslân -->
+        <Theme>
+            <Identifier>DNF_2019</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2019</d:Title>
+            <Layer>DNF_2019</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>DNF_2018</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2018</d:Title>
+            <Layer>DNF_2018</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>DNF_2017</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2017</d:Title>
+            <Layer>DNF_2017</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>DNF_2016</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2016</d:Title>
+            <Layer>DNF_2016</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>DNF_2015</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2015</d:Title>
+            <Layer>DNF_2015</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>DNF_2014</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 2014</d:Title>
+            <Layer>DNF_2014</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>DNF_1970</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 1970</d:Title>
+            <Layer>DNF_1970</Layer>
+        </Theme>
+        <Theme>
+            <Identifier>DNF_1950</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân 1950</d:Title>
+            <Layer>DNF_1950</Layer>
         </Theme>
 
         <!-- Dokkum -->

@@ -4,7 +4,7 @@
         xmlns:s="http://www.deegree.org/metadata/spatial" xsi:schemaLocation="http://www.deegree.org/themes/standard http://schemas.deegree.org/themes/3.4.0/themes.xsd">
     <LayerStoreId>wmts_noardeast_fryslan</LayerStoreId>
     <Theme>
-        <d:Title>Luchtfoto's Noardeast-Fryslan en Dantumadiel</d:Title>
+        <d:Title>Luchtfoto's Dantumadiel en Noardeast-Fryslân</d:Title>
         <s:CRS>EPSG:28992</s:CRS>
 
         <!-- Dantumadiel -->
@@ -19,6 +19,20 @@
             <Layer>Dantumadiel_2000</Layer>
             <Layer>Dantumadiel_1996</Layer>
             <Layer>Dantumadiel_1992</Layer>
+        </Theme>
+
+        <!-- Dantumadiel en Noardeast-Fryslân -->
+        <Theme>
+            <Identifier>DNF</Identifier>
+            <d:Title>Luchtfoto Dantumadiel en Noardeast-Fryslân</d:Title>
+            <Layer>DNF_2019</Layer>
+            <Layer>DNF_2018</Layer>
+            <Layer>DNF_2017</Layer>
+            <Layer>DNF_2016</Layer>
+            <Layer>DNF_2015</Layer>
+            <Layer>DNF_2014</Layer>
+            <Layer>DNF_1970</Layer>
+            <Layer>DNF_1950</Layer>
         </Theme>
 
         <!-- Dokkum -->
